@@ -1,0 +1,2 @@
+const BOOKS_FETCHED = "BOOKS_FETCHED";
+export default BOOKS_FETCHED;
