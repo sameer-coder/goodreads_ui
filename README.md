@@ -32,9 +32,11 @@ yarn install
 
 <h2 align="center">Running the application</h2>
 Run with the following command
+
 ```bash
 npm start
 ```
+
 React app server listens on port 3000
 
 <h2 align="center">Technologies Used</h2>
