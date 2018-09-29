@@ -40,13 +40,16 @@ npm start
 React app server listens on port 3000
 
 <h2 align="center">Technologies Used</h2>
+
 - React
-- Semantic UI (Styling)
+- Semantic UI (Styling) 
 - React router
 - Redux
 - Axios (Http client)
 - ESLint (Linting code)
 
 <h2 align="center">Improvements</h2>
+
 - UI Improvements
 - User authentication (Token based)
+- Advanced search options
